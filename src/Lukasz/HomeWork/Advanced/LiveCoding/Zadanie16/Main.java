@@ -1,0 +1,9 @@
+package Lukasz.HomeWork.Advanced.LiveCoding.Zadanie16;
+
+public class Main {
+    public static void main(String[] args) {
+
+        System.out.println(Runner.getFitnessLevel(3000));
+
+    }
+}
